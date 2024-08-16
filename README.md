@@ -13,11 +13,13 @@
 Install the required dependencies and tools by running:
 ```bash
 ./install.sh
+```
 
 ## Usage
 To run Subhunt and start enumerating subdomains, use the following command:
 ```bash
 python3 main.py -d <target-domain>
+```
 
 ## Requirements
 Python 3.7+
